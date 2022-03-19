@@ -1,2 +1,3 @@
 # new-repos
-line 2 is new line
+line 2 is new line.
+
